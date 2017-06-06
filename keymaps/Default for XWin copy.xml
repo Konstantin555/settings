@@ -3,6 +3,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="decimal" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
