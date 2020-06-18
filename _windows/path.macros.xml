@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="DATABASE_URL" value="postgres://ztxnldmluxplka:bccd0d07215f181e3928ccbaf14766ab72c28c195acbb48cc33c2923acef7bc9@ec2-176-34-97-213.eu-west-1.compute.amazonaws.com:5432/d43uj1ijfh04q3" />
+    <macro name="FLASK_APP" value="application.py" />
+    <macro name="GOODREADS_KEY" value="bwRn4Vv7KQ2CkqH1LcFA" />
+  </component>
+</application>
